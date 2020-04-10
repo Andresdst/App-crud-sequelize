@@ -1,0 +1,21 @@
+utilizamos sequelize-cli para generar el modelo y las migraciones de la base de datos
+
+https://gist.github.com/urielhdz/13ba727722de59b761ab6771dc65fa55
+
+
+https://gist.githubusercontent.com/urielhdz/13ba727722de59b761ab6771dc65fa55/raw/2fb983159ceffc06d1f374c072aecf9eacf7c42d/readme.md
+
+https://gist.githubusercontent.com/urielhdz/13ba727722de59b761ab6771dc65fa55/raw/2fb983159ceffc06d1f374c072aecf9eacf7c42d/categories.js
+
+https://gist.githubusercontent.com/urielhdz/13ba727722de59b761ab6771dc65fa55/raw/2fb983159ceffc06d1f374c072aecf9eacf7c42d/categories_routes.js
+
+https://gist.githubusercontent.com/urielhdz/13ba727722de59b761ab6771dc65fa55/raw/2fb983159ceffc06d1f374c072aecf9eacf7c42d/edit.pug
+
+https://gist.githubusercontent.com/urielhdz/13ba727722de59b761ab6771dc65fa55/raw/2fb983159ceffc06d1f374c072aecf9eacf7c42d/index.pug
+
+https://gist.githubusercontent.com/urielhdz/13ba727722de59b761ab6771dc65fa55/raw/2fb983159ceffc06d1f374c072aecf9eacf7c42d/new.pug
+
+https://gist.githubusercontent.com/urielhdz/13ba727722de59b761ab6771dc65fa55/raw/2fb983159ceffc06d1f374c072aecf9eacf7c42d/show.pug
+
+
+y configurar archivo server

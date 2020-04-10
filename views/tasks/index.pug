@@ -1,0 +1,12 @@
+doctype html
+html
+    head
+        title Tareas
+    body
+        lu
+            each item in tareas
+                li= item.descripcion + ' - '
+                    a(href=`/tasks/${item.id}`)=`${item.id}`
+        br
+        form(action=`/tasks/new` method="GET")
+            input(type="submit" value="Crear Tarea")

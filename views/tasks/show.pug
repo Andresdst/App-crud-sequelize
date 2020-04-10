@@ -1,0 +1,11 @@
+doctype html
+html
+    head
+        title Tarea
+    body
+        h1 resultados:
+        h2= task.descripcion
+        p= task.createdAt
+        br
+        form(action=`/tasks/${task.id}?_method=DELETE` method="POST")
+            input(type="submit" value="Eliminar")
